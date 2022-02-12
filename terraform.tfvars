@@ -1,4 +1,4 @@
-aws_region                             = "eu-west-1"
+aws_region                             = "eu-west-2"
 ami_id                                 = "ami-00ae935ce6c2aa534"
 subnet_id_instance_1_name              = "subnet-7393ff2b"
 subnet_id_instance_2_name              = "subnet-7393ff2b"
